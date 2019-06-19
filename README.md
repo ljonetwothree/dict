@@ -1,0 +1,2 @@
+# dict
+inquery dictionary
